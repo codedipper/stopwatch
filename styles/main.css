@@ -27,5 +27,6 @@
     font-size: 50px;
     margin: 4px 2px;
     cursor: pointer;
+    outline: none;
     border-radius: 0.8em;
 }
